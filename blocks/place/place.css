@@ -1,0 +1,25 @@
+.place {
+  width: 984px;
+  margin: 92px auto 0;
+
+  outline-style: solid;
+  outline-color: aquamarine;
+  outline-width: 1px;
+
+  display: grid;
+  grid-template-columns: 46% 50%;
+  grid-template-rows: 26% 78%;
+  gap: 40px 48px;
+}
+
+@media screen and (max-width: 1100px) {
+  .place {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place {
+    margin: 92px 0 0;
+  }
+}

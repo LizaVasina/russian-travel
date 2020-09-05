@@ -1,0 +1,13 @@
+.place__paragraph {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 163%;
+  color: #fff;
+
+  outline-color: antiquewhite;
+  outline-width: 1px;
+  outline-style: solid;
+
+  width: 100%;
+  height: 78%;
+}
