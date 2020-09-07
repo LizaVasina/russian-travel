@@ -17,4 +17,4 @@
 * [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
 **Ссылка на сайт**
-* [Тык сюда] (https://lizavasina.github.io/russian-travel/)
+* [Тык сюда](https://lizavasina.github.io/russian-travel/)
