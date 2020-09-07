@@ -3,11 +3,23 @@
   font-weight: normal;
   line-height: 163%;
   color: #fff;
-
-  outline-color: antiquewhite;
-  outline-width: 1px;
-  outline-style: solid;
-
-  width: 100%;
-  height: 78%;
+  margin: 0;
 }
+
+.place__paragraph:first-child {
+  margin-bottom: 24px;
+}
+
+@media screen and (max-width: 800px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .place__paragraph {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+
