@@ -6,7 +6,7 @@
   margin: 8px auto 0;
 }
 
-@media screen and (min-width: 930px) {
+@media screen and (min-width: 932px) {
   .lead__caption {
     width: 928px;
   }
