@@ -3,11 +3,7 @@
   margin: 0;
   padding-top: 28px;
   padding-bottom: 24px;
-  display: grid;
-  grid-template-columns: minmax(320px, 1fr);
   font-family: Inter, Helvetica, sans-serif;
-  box-sizing: border-box;
-  width: 100%;
 }
 
 @media screen and (max-width: 425px) {

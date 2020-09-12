@@ -3,24 +3,23 @@
   font-weight: normal;
   line-height: 140%;
   color: #fff;
-  margin: 8px auto 0;
+  margin: 8px calc((100% - 984px)/2) 0;
+  width: 100%;
+  max-width: 984px;
+  text-transform: uppercase;
 }
 
-@media screen and (min-width: 932px) {
+@media screen and (max-width: 1280px) {
   .lead__caption {
-    width: 928px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .lead__caption {
-    width: 984px;
+    margin: 8px calc((100% - 928px)/2) 0;
+    max-width: 928px;
   }
 }
 
 @media screen and (max-width: 930px) {
   .lead__caption {
     margin-left: 24px;
+    width: calc(100% - 48px);
   }
 }
 

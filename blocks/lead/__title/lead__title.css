@@ -4,7 +4,7 @@
   line-height: 104%;
   color: #fff;
   margin: 0 auto 32px;
-  width: 720px;
+  max-width: 720px;
   text-align: center;
 }
 

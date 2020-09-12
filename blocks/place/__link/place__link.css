@@ -4,9 +4,9 @@
   font-weight: normal;
   color: #fff;
   margin: 0;
+  animation: opacity .2s linear;
 }
 
 .place__link:hover {
   opacity: .8;
-  animation: opacity .2s linear;
 }
