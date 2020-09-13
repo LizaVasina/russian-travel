@@ -2,17 +2,17 @@
   font-size: 10px;
   font-weight: normal;
   line-height: 140%;
-  color: #fff;
-  margin: 8px calc((100% - 984px)/2) 0;
+  margin: 8px auto 0;
   width: 100%;
   max-width: 984px;
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .lead__caption {
-    margin: 8px calc((100% - 928px)/2) 0;
+    margin: 8px auto 0;
     max-width: 928px;
+    width: 100%;
   }
 }
 

@@ -4,7 +4,7 @@
   font-weight: normal;
   color: #fff;
   margin: 0;
-  animation: opacity .2s linear;
+  transition: opacity .2s linear;
 }
 
 .place__link:hover {
